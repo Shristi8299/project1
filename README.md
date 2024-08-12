@@ -1,3 +1,3 @@
 # New project
-This project was created form local system 
-created by Shristi verma
+This project was created form local system.
+Created by Shristi verma.
