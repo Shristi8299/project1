@@ -1,3 +1,3 @@
 
-// add new features-form
+// delete feature button
 
